@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: Rock Paper Scissor Project, Configuration: Debug Any CPU ------
+1>C:\Users\Sherlon\Desktop\Respository\C#\C-sharp\Rock Paper Scissor Project\Program.cs(13,34,13,43): warning CS0219: The variable 'CPUChoice' is assigned but its value is never used
+1>  Rock Paper Scissor Project -> C:\Users\Sherlon\Desktop\Respository\C#\C-sharp\Rock Paper Scissor Project\bin\Debug\Rock Paper Scissor Project.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

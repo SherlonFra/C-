@@ -1,0 +1,7 @@
+C:\Users\Sherlon\Desktop\Respository\C#\C-sharp\Rock Paper Scissor Project\bin\Debug\Rock Paper Scissor Project.exe.config
+C:\Users\Sherlon\Desktop\Respository\C#\C-sharp\Rock Paper Scissor Project\bin\Debug\Rock Paper Scissor Project.exe
+C:\Users\Sherlon\Desktop\Respository\C#\C-sharp\Rock Paper Scissor Project\bin\Debug\Rock Paper Scissor Project.pdb
+C:\Users\Sherlon\Desktop\Respository\C#\C-sharp\Rock Paper Scissor Project\obj\Debug\Rock Paper Scissor Project.csprojAssemblyReference.cache
+C:\Users\Sherlon\Desktop\Respository\C#\C-sharp\Rock Paper Scissor Project\obj\Debug\Rock Paper Scissor Project.csproj.CoreCompileInputs.cache
+C:\Users\Sherlon\Desktop\Respository\C#\C-sharp\Rock Paper Scissor Project\obj\Debug\Rock Paper Scissor Project.exe
+C:\Users\Sherlon\Desktop\Respository\C#\C-sharp\Rock Paper Scissor Project\obj\Debug\Rock Paper Scissor Project.pdb
