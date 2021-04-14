@@ -1,0 +1,10 @@
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter05 program 02\bin\Debug\Chapter05 program 02.exe.config
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter05 program 02\bin\Debug\Chapter05 program 02.exe
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter05 program 02\bin\Debug\Chapter05 program 02.pdb
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter05 program 02\obj\Debug\Chapter05 program 02.csprojAssemblyReference.cache
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter05 program 02\obj\Debug\Chapter05_program_02.FrmMain.resources
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter05 program 02\obj\Debug\Chapter05_program_02.Properties.Resources.resources
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter05 program 02\obj\Debug\Chapter05 program 02.csproj.GenerateResource.cache
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter05 program 02\obj\Debug\Chapter05 program 02.csproj.CoreCompileInputs.cache
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter05 program 02\obj\Debug\Chapter05 program 02.exe
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter05 program 02\obj\Debug\Chapter05 program 02.pdb
