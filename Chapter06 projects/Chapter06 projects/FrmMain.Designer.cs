@@ -39,7 +39,7 @@ namespace Chapter06_projects
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(42, 40);
+            this.label1.Location = new System.Drawing.Point(12, 18);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(156, 17);
             this.label1.TabIndex = 0;
@@ -47,21 +47,21 @@ namespace Chapter06_projects
             // 
             // txtNumber
             // 
-            this.txtNumber.Location = new System.Drawing.Point(204, 37);
+            this.txtNumber.Location = new System.Drawing.Point(174, 18);
             this.txtNumber.Name = "txtNumber";
             this.txtNumber.Size = new System.Drawing.Size(100, 22);
             this.txtNumber.TabIndex = 1;
             // 
             // lblOutput
             // 
-            this.lblOutput.Location = new System.Drawing.Point(85, 97);
+            this.lblOutput.Location = new System.Drawing.Point(12, 59);
             this.lblOutput.Name = "lblOutput";
             this.lblOutput.Size = new System.Drawing.Size(176, 22);
             this.lblOutput.TabIndex = 2;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(54, 206);
+            this.button1.Location = new System.Drawing.Point(12, 115);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(144, 47);
             this.button1.TabIndex = 3;
@@ -71,7 +71,7 @@ namespace Chapter06_projects
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(263, 206);
+            this.button2.Location = new System.Drawing.Point(174, 115);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(146, 47);
             this.button2.TabIndex = 4;
@@ -82,7 +82,7 @@ namespace Chapter06_projects
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(344, 181);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.lblOutput);
