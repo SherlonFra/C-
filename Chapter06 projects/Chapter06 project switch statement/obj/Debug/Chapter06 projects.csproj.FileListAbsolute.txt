@@ -1,0 +1,20 @@
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter06 projects\Chapter06 projects\bin\Debug\Chapter06 projects.exe.config
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter06 projects\Chapter06 projects\bin\Debug\Chapter06 projects.exe
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter06 projects\Chapter06 projects\bin\Debug\Chapter06 projects.pdb
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter06 projects\Chapter06 projects\obj\Debug\Chapter06 projects.csprojAssemblyReference.cache
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter06 projects\Chapter06 projects\obj\Debug\Chapter06_projects.FrmMain.resources
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter06 projects\Chapter06 projects\obj\Debug\Chapter06_projects.Properties.Resources.resources
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter06 projects\Chapter06 projects\obj\Debug\Chapter06 projects.csproj.GenerateResource.cache
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter06 projects\Chapter06 projects\obj\Debug\Chapter06 projects.csproj.CoreCompileInputs.cache
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter06 projects\Chapter06 projects\obj\Debug\Chapter06 projects.exe
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter06 projects\Chapter06 projects\obj\Debug\Chapter06 projects.pdb
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter06 projects\Chapter06 project switch statement\bin\Debug\Chapter06 projects.exe.config
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter06 projects\Chapter06 project switch statement\bin\Debug\Chapter06 projects.exe
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter06 projects\Chapter06 project switch statement\bin\Debug\Chapter06 projects.pdb
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter06 projects\Chapter06 project switch statement\obj\Debug\Chapter06 projects.csprojAssemblyReference.cache
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter06 projects\Chapter06 project switch statement\obj\Debug\Chapter06_projects.FrmMain.resources
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter06 projects\Chapter06 project switch statement\obj\Debug\Chapter06_projects.Properties.Resources.resources
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter06 projects\Chapter06 project switch statement\obj\Debug\Chapter06 projects.csproj.GenerateResource.cache
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter06 projects\Chapter06 project switch statement\obj\Debug\Chapter06 projects.csproj.CoreCompileInputs.cache
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter06 projects\Chapter06 project switch statement\obj\Debug\Chapter06 projects.exe
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter06 projects\Chapter06 project switch statement\obj\Debug\Chapter06 projects.pdb
