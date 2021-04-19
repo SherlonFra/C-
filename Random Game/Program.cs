@@ -20,6 +20,8 @@ namespace Random_Game
             Random random = new Random();
             int cpuattack = random.Next(0, moves.Length);
 
+            Console.WriteLine("WELCOME YOU WILL FIGHT TO THE DEATH!!!");
+
             while (fightagain == true)
             {
 
@@ -31,7 +33,7 @@ namespace Random_Game
 
 
 
-                        Console.WriteLine("WELCOME YOU WILL FIGHT TO THE DEATH!!!");
+                       
                         Console.WriteLine("Player 1: Choose your attack: Kick, Punch, Energyblast, Specialmove ");
                         player1 = Console.ReadLine();
                         player1 = player1.ToLower();
@@ -40,7 +42,9 @@ namespace Random_Game
                         if (player1 == "kick")
                         {
                             player2health -= kick;
-                            Console.WriteLine("Player 2 took " + kick + " damage. ");
+                            if (player2health < 0)
+                            player2health = 0;
+                        Console.WriteLine("Player 2 took " + kick + " damage. ");
                             Console.WriteLine("Player 2's health is down to " + (player2health) + ".");
 
                             Console.ReadLine();
@@ -48,6 +52,8 @@ namespace Random_Game
                         else if (player1 == "punch")
                         {
                             player2health -= punch;
+                            if (player2health < 0)
+                            player2health = 0;
                             Console.WriteLine("Player 2 took " + punch + " damage. ");
                             Console.WriteLine("Player 2's health is down to " + (player2health) + ".");
 
@@ -56,7 +62,9 @@ namespace Random_Game
                         else if (player1 == "energyblast")
                         {
                             player2health -= energyblast;
-                            Console.WriteLine("Player 2 took " + energyblast + " damage. ");
+                            if (player2health < 0)
+                            player2health = 0;
+                        Console.WriteLine("Player 2 took " + energyblast + " damage. ");
                             Console.WriteLine("Player 2's health is down to " + (player2health) + ".");
 
                             Console.ReadLine();
@@ -64,6 +72,8 @@ namespace Random_Game
                         else if (player1 == "specialmove")
                         {
                             player2health -= specialmove;
+                            if (player2health < 0)
+                            player2health = 0;
                             Console.WriteLine("Player 2 took " + specialmove + " damage. ");
                             Console.WriteLine("Player 2's health is down to " + (player2health) + ".");
 
@@ -71,7 +81,9 @@ namespace Random_Game
                         }
 
                         playerhealth -= moves[cpuattack];
-                        Console.WriteLine("Player 2 used" + "\nPlayer 1 took " + moves[cpuattack] + " damage. ");
+                        if (playerhealth < 0)
+                        playerhealth = 0;
+                    Console.WriteLine("Player 2 used" + "\nPlayer 1 took " + moves[cpuattack] + " damage. ");
                         Console.WriteLine("Player 1's health is down to " + (playerhealth) + ".");
                         Console.ReadLine();
                       
