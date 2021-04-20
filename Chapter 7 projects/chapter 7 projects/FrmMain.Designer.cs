@@ -146,7 +146,7 @@ namespace chapter_7_projects
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "FrmMain";
-            this.Text = "Form1";
+            this.Text = "Table of Squares";
             this.Load += new System.EventHandler(this.FrmMain_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
