@@ -1,0 +1,10 @@
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter 7 projects\chapter 7 project 02 do while random\bin\Debug\chapter 7 project 02 do while random.exe.config
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter 7 projects\chapter 7 project 02 do while random\bin\Debug\chapter 7 project 02 do while random.exe
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter 7 projects\chapter 7 project 02 do while random\bin\Debug\chapter 7 project 02 do while random.pdb
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter 7 projects\chapter 7 project 02 do while random\obj\Debug\chapter 7 project 02 do while random.csprojAssemblyReference.cache
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter 7 projects\chapter 7 project 02 do while random\obj\Debug\chapter_7_project_02_do_while_random.Form1.resources
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter 7 projects\chapter 7 project 02 do while random\obj\Debug\chapter_7_project_02_do_while_random.Properties.Resources.resources
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter 7 projects\chapter 7 project 02 do while random\obj\Debug\chapter 7 project 02 do while random.csproj.GenerateResource.cache
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter 7 projects\chapter 7 project 02 do while random\obj\Debug\chapter 7 project 02 do while random.csproj.CoreCompileInputs.cache
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter 7 projects\chapter 7 project 02 do while random\obj\Debug\chapter 7 project 02 do while random.exe
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter 7 projects\chapter 7 project 02 do while random\obj\Debug\chapter 7 project 02 do while random.pdb
