@@ -1,0 +1,10 @@
+C:\Users\Sherlon\Desktop\Repository\C##\chapter 8 programs\Chapter 8 program collections\bin\Debug\Chapter 8 program collections.exe.config
+C:\Users\Sherlon\Desktop\Repository\C##\chapter 8 programs\Chapter 8 program collections\bin\Debug\Chapter 8 program collections.exe
+C:\Users\Sherlon\Desktop\Repository\C##\chapter 8 programs\Chapter 8 program collections\bin\Debug\Chapter 8 program collections.pdb
+C:\Users\Sherlon\Desktop\Repository\C##\chapter 8 programs\Chapter 8 program collections\obj\Debug\Chapter 8 program collections.csprojAssemblyReference.cache
+C:\Users\Sherlon\Desktop\Repository\C##\chapter 8 programs\Chapter 8 program collections\obj\Debug\Chapter_8_program_collections.Form1.resources
+C:\Users\Sherlon\Desktop\Repository\C##\chapter 8 programs\Chapter 8 program collections\obj\Debug\Chapter_8_program_collections.Properties.Resources.resources
+C:\Users\Sherlon\Desktop\Repository\C##\chapter 8 programs\Chapter 8 program collections\obj\Debug\Chapter 8 program collections.csproj.GenerateResource.cache
+C:\Users\Sherlon\Desktop\Repository\C##\chapter 8 programs\Chapter 8 program collections\obj\Debug\Chapter 8 program collections.csproj.CoreCompileInputs.cache
+C:\Users\Sherlon\Desktop\Repository\C##\chapter 8 programs\Chapter 8 program collections\obj\Debug\Chapter 8 program collections.exe
+C:\Users\Sherlon\Desktop\Repository\C##\chapter 8 programs\Chapter 8 program collections\obj\Debug\Chapter 8 program collections.pdb
