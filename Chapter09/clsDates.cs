@@ -11,7 +11,7 @@ namespace Chapter09
         private static int[] daysInMonth = { 0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
 
         private int day;
-        private int month;
+        public int month;
         private int year;
         private int leapYear;
         private DateTime current;

@@ -19,9 +19,12 @@ namespace Chapter09
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            int myMonth;
+            clsDates myDate = new clsDates();
+            myMonth = myDate.month;
+         
         }
-
+   
         private void btnCalc_Click(object sender, EventArgs e)
         {
             bool flag;
