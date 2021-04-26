@@ -10,13 +10,21 @@ namespace practice_exam
     {
         static void Main(string[] args)
         {
-            //GREATEST VALUE CODE///////////////////////////////////
+            solution01_greatestvalue();
+            solution02_findingaverage();
+            solution03_numberofintergers();
+            solution04_spaceinstring();
+            solution05_ASCIIvalues();
 
-            /*int a;
+        }
+        //GREATEST VALUE CODE///////////////////////////////////
+        public static void solution01_greatestvalue()
+        {
+            int a;
             int b;
             int c;
             bool restart = true;
-            
+
             while (restart)
             {
                 Console.WriteLine("Input 3 values: ");
@@ -65,15 +73,16 @@ namespace practice_exam
                 }
 
 
-            }*/
+            }
+
+        }
 
 
+        //GRADE AVERAGE CODE/////////////////////////////////////////
 
-
-            //GRADE AVERAGE CODE/////////////////////////////////////////
-
-
-            /*double quizScore;
+        public static void solution02_findingaverage()
+        {
+            double quizScore;
             double midTermScore;
             double finalScore;
             string grade;
@@ -86,7 +95,7 @@ namespace practice_exam
 
             double average = (quizScore + midTermScore + finalScore) / 3;
 
-            if(average >= 90)
+            if (average >= 90)
             {
                 grade = "A";
                 Console.WriteLine("Your grade is: " + grade);
@@ -113,52 +122,73 @@ namespace practice_exam
                 Console.ReadLine();
             }
 
-            Console.ReadLine();*/
+            Console.ReadLine();
+        }
 
 
 
-            //NUMBER OF INTEGERS IN A NUMBER///////////////////////////////////
-
-            /*int number;
+        //NUMBER OF INTEGERS IN A NUMBER///////////////////////////////////
+        public static void solution03_numberofintergers()
+        {
+            int number;
 
             Console.Write("Enter integer value: ");
             number = int.Parse(Console.ReadLine());
-                
+
             int counter = 0;
-                while( number>0)
-                {
-                    number = number / 10;
-                    counter++;
-                }
-
-                Console.WriteLine("Integer has "+ counter +" numbers.");
-                Console.ReadLine();*/
-
-
-            //NUMBER OF SPACE IN STRING//////////////////////////////////////////
-
-           
-            int ctr = 0;
-            string str;
-            Console.Write("Enter a string: ");
-            str = Console.ReadLine();
-            
-            for(int i = 0; i < str.Length; i++)
+            while (number > 0)
             {
-                if (str[i] == ' ')
+                number = number / 10;
+                counter++;
+            }
+
+            Console.WriteLine("Integer has " + counter + " numbers.");
+            Console.ReadLine();
+        }
+
+
+        //NUMBER OF SPACE IN STRING//////////////////////////////////////////
+
+        public static void solution04_spaceinstring()
+        {
+            int spaces = 0;
+            string stringinput;
+            Console.Write("Enter a string: ");
+            stringinput = Console.ReadLine();
+
+            for (int i = 0; i < stringinput.Length; i++)
+            {
+                if (stringinput[i] == ' ')
                 {
-                    ctr++;
+                    spaces++;
                 }
             }
 
-            Console.Write("Spaces in this string: "+ ctr);
+
+            Console.Write("Spaces in this string: " + spaces);
             Console.ReadLine();
-
-
-
-
-
-
         }
+        //ASCII/////////////////////////////////////////////
+        public static void solution05_ASCIIvalues()
+        {
+            for (int i = 1; i < 122; i++)
+            {
+                Console.Write(i + " = " + (char)i);
+
+                if (i % 10 == 0)
+                {
+                    Console.WriteLine("Please press any key to turn page");
+                    Console.ReadKey();
+                    Console.Clear();
+                }
+            }
+        }
+
+
+
+
+
+
+    
     }
 }
