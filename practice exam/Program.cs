@@ -10,10 +10,10 @@ namespace practice_exam
     {
         static void Main(string[] args)
         {
-            solution01_greatestvalue();
+            /*solution01_greatestvalue();
             solution02_findingaverage();
             solution03_numberofintergers();
-            solution04_spaceinstring();
+            solution04_spaceinstring();*/
             solution05_ASCIIvalues();
 
         }
