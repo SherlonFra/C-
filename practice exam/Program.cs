@@ -171,19 +171,20 @@ namespace practice_exam
         //ASCII/////////////////////////////////////////////
         public static void solution05_ASCIIvalues()
         {
-            for (int i = 1; i < 122; i++)
+            int b = 0;
+            for (int i = 0; i < 12; i++)
             {
-               // for (int j = 0; j < 10; j++)
-                Console.WriteLine(i + " = " + (char)i);
 
-                if (i % 10 == 0)
+                for (int j = 0; j < 10; j++)
                 {
-                    Console.WriteLine("Please press any key to turn page");
-                    Console.ReadKey();
-                    Console.Clear();
+                    b++;
+                    char letter = (char)b;
+                    Console.Write("{0} -> {1}", b, letter);
                 }
+                Console.ReadLine();
             }
         }
+
 
 
 
