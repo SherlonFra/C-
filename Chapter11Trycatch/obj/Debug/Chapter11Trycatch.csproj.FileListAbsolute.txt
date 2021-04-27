@@ -1,0 +1,10 @@
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter11Trycatch\bin\Debug\Chapter11Trycatch.exe.config
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter11Trycatch\bin\Debug\Chapter11Trycatch.exe
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter11Trycatch\bin\Debug\Chapter11Trycatch.pdb
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter11Trycatch\obj\Debug\Chapter11Trycatch.Form1.resources
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter11Trycatch\obj\Debug\Chapter11Trycatch.Properties.Resources.resources
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter11Trycatch\obj\Debug\Chapter11Trycatch.csproj.GenerateResource.cache
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter11Trycatch\obj\Debug\Chapter11Trycatch.csproj.CoreCompileInputs.cache
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter11Trycatch\obj\Debug\Chapter11Trycatch.exe
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter11Trycatch\obj\Debug\Chapter11Trycatch.pdb
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter11Trycatch\obj\Debug\Chapter11Trycatch.csprojAssemblyReference.cache
