@@ -61,7 +61,7 @@ namespace Chapter11Trycatch
             this.Controls.Add(this.btnExit);
             this.Controls.Add(this.btnCalc);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Simple Exception";
             this.ResumeLayout(false);
 
         }
