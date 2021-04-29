@@ -147,20 +147,27 @@ namespace practice_exam
         //NUMBER OF INTEGERS IN A NUMBER///////////////////////////////////
         public static void solution03_numberofintergers()
         {
-            int number;
-
-            Console.Write("Enter integer value: ");
-            number = int.Parse(Console.ReadLine());
-
-            int counter = 0;
-            while (number > 0)
+            try
             {
-                number = number / 10;
-                counter++;
-            }
+                int number;
 
-            Console.WriteLine("Integer has " + counter + " numbers.");
-            Console.ReadLine();
+                Console.Write("Enter integer value: ");
+                number = int.Parse(Console.ReadLine());
+
+                int counter = 0;
+                while (number > 0)
+                {
+                    number = number / 10;
+                    counter++;
+                }
+
+                Console.WriteLine("Integer has " + counter + " numbers.");
+                Console.ReadLine();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
         }
 
 
@@ -168,22 +175,30 @@ namespace practice_exam
 
         public static void solution04_spaceinstring()
         {
-            int spaces = 0;
-            string stringinput;
-            Console.Write("Enter a string: ");
-            stringinput = Console.ReadLine();
-
-            for (int i = 0; i < stringinput.Length; i++)
+            try
             {
-                if (stringinput[i] == ' ')
+                int spaces = 0;
+                string stringinput;
+                Console.Write("Enter a string: ");
+                stringinput = Console.ReadLine();
+
+                for (int i = 0; i < stringinput.Length; i++)
                 {
-                    spaces++;
+                    if (stringinput[i] == ' ')
+                    {
+                        spaces++;
+                    }
                 }
+
+
+                Console.Write("Spaces in this string: " + spaces);
+                Console.ReadLine();
             }
+            catch(Exception ex)
+            {
+                Console.WriteLine(ex.Message);
 
-
-            Console.Write("Spaces in this string: " + spaces);
-            Console.ReadLine();
+            }
         }
         //ASCII/////////////////////////////////////////////
         public static void solution05_ASCIIvalues()
