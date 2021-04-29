@@ -203,17 +203,25 @@ namespace practice_exam
         //ASCII/////////////////////////////////////////////
         public static void solution05_ASCIIvalues()
         {
-            int b = 0;
-            for (int i = 0; i < 12; i++)
+            try
             {
-
-                for (int j = 0; j < 10; j++)
+                int b = 0;
+                for (int i = 0; i < 12; i++)
                 {
-                    b++;
-                    char letter = (char)b;
-                    Console.Write("{0} -> {1}", b, letter);
+
+                    for (int j = 0; j < 10; j++)
+                    {
+                        b++;
+                        char letter = (char)b;
+                        Console.Write("{0} -> {1}", b, letter);
+                    }
+                    Console.ReadLine();
                 }
-                Console.ReadLine();
+            }
+
+            catch(Exception ex)
+            {
+                Console.WriteLine(ex.Message);
             }
         }
 
