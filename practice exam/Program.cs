@@ -20,69 +20,70 @@ namespace practice_exam
         //GREATEST VALUE CODE///////////////////////////////////
         public static void solution01_greatestvalue()
         {
-            int a;
-            int b;
-            int c;
-            bool restart = true;
-
-            while (restart)
+           
+            try
             {
-                Console.WriteLine("Input 3 values: ");
-                a = int.Parse(Console.ReadLine());
-                b = int.Parse(Console.ReadLine());
-                c = int.Parse(Console.ReadLine());
-                Console.ReadLine();
+                int a;
+                int b;
+                int c;
+                bool restart = true;
 
-
-                if (a > b && a > c)
+                while (restart)
                 {
-                    Console.WriteLine(a + " is the greatest value");
+                    Console.WriteLine("Input 3 values: ");
+                    a = int.Parse(Console.ReadLine());
+                    b = int.Parse(Console.ReadLine());
+                    c = int.Parse(Console.ReadLine());
                     Console.ReadLine();
+
+
+                    if (a > b && a > c)
+                    {
+                        Console.WriteLine(a + " is the greatest value");
+                        Console.ReadLine();
+                    }
+
+                    else if (b > a && b > c)
+                    {
+                        Console.WriteLine(b + " is the greatest value");
+                        Console.ReadLine();
+                    }
+
+                    else if (c > a && c > b)
+                    {
+                        Console.WriteLine(c + " is the greatest value");
+                        Console.ReadLine();
+                    }
+
+
+
+
+                    Console.WriteLine("Press R to restart");
+                    string again = Console.ReadLine();
+                    again = again.ToLower();
+
+                    if (again == "r")
+
+                    {
+                        restart = true;
+                        Console.Clear();
+                    }
+
+                    else
+                    {
+                        restart = false;
+                    }
+
+
+
+
                 }
-
-                else if (b > a && b > c)
-                {
-                    Console.WriteLine(b + " is the greatest value");
-                    Console.ReadLine();
-                }
-
-                else if (c > a && c > b)
-                {
-                    Console.WriteLine(c + " is the greatest value");
-                    Console.ReadLine();
-                }
-
-
-
-
-
-                Console.WriteLine("Press R to restart");
-                string again = Console.ReadLine();
-                again = again.ToLower();
-
-                if (again == "r")
-
-                {
-                    restart = true;
-                    Console.Clear();
-                }
-
-                else
-                {
-                    restart = false;
-                }
-
-                try
-                {
-
-                }
-                catch(Exception ex)
-                {
-                    Console.WriteLine(ex.Message);
-                }
-
-
             }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+
 
         }
 
@@ -91,47 +92,54 @@ namespace practice_exam
 
         public static void solution02_findingaverage()
         {
-            double quizScore;
-            double midTermScore;
-            double finalScore;
-            string grade;
-            Console.Write("Enter QuizScore:  ");
-            quizScore = double.Parse((Console.ReadLine()));
-            Console.Write("Enter MidTerm Score:  ");
-            midTermScore = double.Parse((Console.ReadLine()));
-            Console.Write("Enter Final Score:  ");
-            finalScore = double.Parse((Console.ReadLine()));
-
-            double average = (quizScore + midTermScore + finalScore) / 3;
-
-            if (average >= 90)
+            try
             {
-                grade = "A";
-                Console.WriteLine("Your grade is: " + grade);
+                double quizScore;
+                double midTermScore;
+                double finalScore;
+                string grade;
+                Console.Write("Enter QuizScore:  ");
+                quizScore = double.Parse((Console.ReadLine()));
+                Console.Write("Enter MidTerm Score:  ");
+                midTermScore = double.Parse((Console.ReadLine()));
+                Console.Write("Enter Final Score:  ");
+                finalScore = double.Parse((Console.ReadLine()));
+
+                double average = (quizScore + midTermScore + finalScore) / 3;
+
+                if (average >= 90)
+                {
+                    grade = "A";
+                    Console.WriteLine("Your grade is: " + grade);
+                    Console.ReadLine();
+                }
+                else if (average >= 70 && average < 90)
+                {
+                    grade = "B";
+                    Console.WriteLine("Your grade is: " + grade);
+                    Console.ReadLine();
+
+                }
+                else if (average >= 50 && average < 90)
+                {
+                    grade = "C";
+                    Console.WriteLine("Your grade is: " + grade);
+                    Console.ReadLine();
+
+                }
+                else if (average < 50)
+                {
+                    grade = "F";
+                    Console.WriteLine("Your grade is: " + grade);
+                    Console.ReadLine();
+                }
+
                 Console.ReadLine();
             }
-            else if (average >= 70 && average < 90)
+            catch(Exception ex)
             {
-                grade = "B";
-                Console.WriteLine("Your grade is: " + grade);
-                Console.ReadLine();
-
+                Console.WriteLine(ex.Message);
             }
-            else if (average >= 50 && average < 90)
-            {
-                grade = "C";
-                Console.WriteLine("Your grade is: " + grade);
-                Console.ReadLine();
-
-            }
-            else if (average < 50)
-            {
-                grade = "F";
-                Console.WriteLine("Your grade is: " + grade);
-                Console.ReadLine();
-            }
-
-            Console.ReadLine();
         }
 
 
