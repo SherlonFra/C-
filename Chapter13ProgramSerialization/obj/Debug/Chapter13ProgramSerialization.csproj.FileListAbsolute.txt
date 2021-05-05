@@ -1,0 +1,10 @@
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter13ProgramSerialization\bin\Debug\Chapter13ProgramSerialization.exe.config
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter13ProgramSerialization\bin\Debug\Chapter13ProgramSerialization.exe
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter13ProgramSerialization\bin\Debug\Chapter13ProgramSerialization.pdb
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter13ProgramSerialization\obj\Debug\Chapter13ProgramSerialization.csprojAssemblyReference.cache
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter13ProgramSerialization\obj\Debug\Chapter13ProgramSerialization.FrmMain.resources
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter13ProgramSerialization\obj\Debug\Chapter13ProgramSerialization.Properties.Resources.resources
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter13ProgramSerialization\obj\Debug\Chapter13ProgramSerialization.csproj.GenerateResource.cache
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter13ProgramSerialization\obj\Debug\Chapter13ProgramSerialization.csproj.CoreCompileInputs.cache
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter13ProgramSerialization\obj\Debug\Chapter13ProgramSerialization.exe
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter13ProgramSerialization\obj\Debug\Chapter13ProgramSerialization.pdb
