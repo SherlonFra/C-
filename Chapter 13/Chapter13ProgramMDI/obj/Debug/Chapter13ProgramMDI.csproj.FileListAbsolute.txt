@@ -1,0 +1,10 @@
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter 13\Chapter13ProgramMDI\bin\Debug\Chapter13ProgramMDI.exe.config
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter 13\Chapter13ProgramMDI\bin\Debug\Chapter13ProgramMDI.exe
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter 13\Chapter13ProgramMDI\bin\Debug\Chapter13ProgramMDI.pdb
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter 13\Chapter13ProgramMDI\obj\Debug\Chapter13ProgramMDI.csprojAssemblyReference.cache
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter 13\Chapter13ProgramMDI\obj\Debug\Chapter13ProgramMDI.form1.resources
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter 13\Chapter13ProgramMDI\obj\Debug\Chapter13ProgramMDI.Properties.Resources.resources
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter 13\Chapter13ProgramMDI\obj\Debug\Chapter13ProgramMDI.csproj.GenerateResource.cache
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter 13\Chapter13ProgramMDI\obj\Debug\Chapter13ProgramMDI.csproj.CoreCompileInputs.cache
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter 13\Chapter13ProgramMDI\obj\Debug\Chapter13ProgramMDI.exe
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter 13\Chapter13ProgramMDI\obj\Debug\Chapter13ProgramMDI.pdb
