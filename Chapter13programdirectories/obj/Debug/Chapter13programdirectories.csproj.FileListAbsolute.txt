@@ -1,0 +1,10 @@
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter13programdirectories\bin\Debug\Chapter13programdirectories.exe.config
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter13programdirectories\bin\Debug\Chapter13programdirectories.exe
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter13programdirectories\bin\Debug\Chapter13programdirectories.pdb
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter13programdirectories\obj\Debug\Chapter13programdirectories.csprojAssemblyReference.cache
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter13programdirectories\obj\Debug\Chapter13programdirectories.Form1.resources
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter13programdirectories\obj\Debug\Chapter13programdirectories.Properties.Resources.resources
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter13programdirectories\obj\Debug\Chapter13programdirectories.csproj.GenerateResource.cache
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter13programdirectories\obj\Debug\Chapter13programdirectories.csproj.CoreCompileInputs.cache
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter13programdirectories\obj\Debug\Chapter13programdirectories.exe
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter13programdirectories\obj\Debug\Chapter13programdirectories.pdb
