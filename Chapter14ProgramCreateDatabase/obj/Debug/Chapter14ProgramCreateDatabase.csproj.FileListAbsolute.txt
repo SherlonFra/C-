@@ -1,0 +1,13 @@
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter14ProgramCreateDatabase\bin\Debug\Chapter14ProgramCreateDatabase.exe.config
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter14ProgramCreateDatabase\bin\Debug\Chapter14ProgramCreateDatabase.exe
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter14ProgramCreateDatabase\bin\Debug\Chapter14ProgramCreateDatabase.pdb
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter14ProgramCreateDatabase\obj\Debug\Chapter14ProgramCreateDatabase.csprojAssemblyReference.cache
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter14ProgramCreateDatabase\obj\Debug\Chapter14ProgramCreateDatabase.FriendInput.resources
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter14ProgramCreateDatabase\obj\Debug\Chapter14ProgramCreateDatabase.FrmMain.resources
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter14ProgramCreateDatabase\obj\Debug\Chapter14ProgramCreateDatabase.frmServerSelect.resources
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter14ProgramCreateDatabase\obj\Debug\Chapter14ProgramCreateDatabase.Properties.Resources.resources
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter14ProgramCreateDatabase\obj\Debug\Chapter14ProgramCreateDatabase.csproj.GenerateResource.cache
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter14ProgramCreateDatabase\obj\Debug\Chapter14ProgramCreateDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter14ProgramCreateDatabase\obj\Debug\Chapter14ProgramCreateDatabase.exe
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter14ProgramCreateDatabase\obj\Debug\Chapter14ProgramCreateDatabase.pdb
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter14ProgramCreateDatabase\obj\Debug\Chapter14ProgramCreateDatabase.FrmReport.resources
