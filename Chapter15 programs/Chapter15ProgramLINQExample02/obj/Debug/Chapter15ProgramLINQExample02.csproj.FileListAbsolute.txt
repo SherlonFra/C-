@@ -1,0 +1,10 @@
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter15 programs\Chapter15ProgramLINQExample02\bin\Debug\Chapter15ProgramLINQExample02.exe.config
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter15 programs\Chapter15ProgramLINQExample02\bin\Debug\Chapter15ProgramLINQExample02.exe
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter15 programs\Chapter15ProgramLINQExample02\bin\Debug\Chapter15ProgramLINQExample02.pdb
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter15 programs\Chapter15ProgramLINQExample02\obj\Debug\Chapter15ProgramLINQExample02.csprojAssemblyReference.cache
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter15 programs\Chapter15ProgramLINQExample02\obj\Debug\Chapter15ProgramLINQExample02.FrmMain.resources
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter15 programs\Chapter15ProgramLINQExample02\obj\Debug\Chapter15ProgramLINQExample02.Properties.Resources.resources
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter15 programs\Chapter15ProgramLINQExample02\obj\Debug\Chapter15ProgramLINQExample02.csproj.GenerateResource.cache
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter15 programs\Chapter15ProgramLINQExample02\obj\Debug\Chapter15ProgramLINQExample02.csproj.CoreCompileInputs.cache
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter15 programs\Chapter15ProgramLINQExample02\obj\Debug\Chapter15ProgramLINQExample02.exe
+C:\Users\Sherlon\Desktop\Repository\C##\Chapter15 programs\Chapter15ProgramLINQExample02\obj\Debug\Chapter15ProgramLINQExample02.pdb
