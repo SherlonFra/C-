@@ -138,7 +138,7 @@ namespace Chapter15ProgramLINQTest
             this.lstOutput.Size = new System.Drawing.Size(120, 340);
             this.lstOutput.TabIndex = 10;
             // 
-            // Form1
+            // FrmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -154,8 +154,8 @@ namespace Chapter15ProgramLINQTest
             this.Controls.Add(this.label2);
             this.Controls.Add(this.lstFull);
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "FrmMain";
+            this.Text = "Test LINQ";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
