@@ -1,0 +1,10 @@
+C:\Users\Sherlon\Desktop\Repository\C##\Proramming in c sharp exam Sherlon\bin\Debug\Proramming in c sharp exam Sherlon.exe.config
+C:\Users\Sherlon\Desktop\Repository\C##\Proramming in c sharp exam Sherlon\bin\Debug\Proramming in c sharp exam Sherlon.exe
+C:\Users\Sherlon\Desktop\Repository\C##\Proramming in c sharp exam Sherlon\bin\Debug\Proramming in c sharp exam Sherlon.pdb
+C:\Users\Sherlon\Desktop\Repository\C##\Proramming in c sharp exam Sherlon\obj\Debug\Proramming in c sharp exam Sherlon.csprojAssemblyReference.cache
+C:\Users\Sherlon\Desktop\Repository\C##\Proramming in c sharp exam Sherlon\obj\Debug\Proramming_in_c_sharp_exam_Sherlon.Form1.resources
+C:\Users\Sherlon\Desktop\Repository\C##\Proramming in c sharp exam Sherlon\obj\Debug\Proramming_in_c_sharp_exam_Sherlon.Properties.Resources.resources
+C:\Users\Sherlon\Desktop\Repository\C##\Proramming in c sharp exam Sherlon\obj\Debug\Proramming in c sharp exam Sherlon.csproj.GenerateResource.cache
+C:\Users\Sherlon\Desktop\Repository\C##\Proramming in c sharp exam Sherlon\obj\Debug\Proramming in c sharp exam Sherlon.csproj.CoreCompileInputs.cache
+C:\Users\Sherlon\Desktop\Repository\C##\Proramming in c sharp exam Sherlon\obj\Debug\Proramming in c sharp exam Sherlon.exe
+C:\Users\Sherlon\Desktop\Repository\C##\Proramming in c sharp exam Sherlon\obj\Debug\Proramming in c sharp exam Sherlon.pdb
